@@ -160,7 +160,3 @@ function clearTasksFromLocalStorage(){
        
     }
 
-
-
-
-    
